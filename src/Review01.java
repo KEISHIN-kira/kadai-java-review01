@@ -14,5 +14,4 @@ public class Review01 {
         int taxAmount = (int)(price * taxrate);
         return taxAmount;
     }
-
 }
